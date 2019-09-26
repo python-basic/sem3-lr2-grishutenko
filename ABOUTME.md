@@ -3,6 +3,6 @@
 2. Низкоуровневое программирование на языках ассемблера
 3. Обратный инженеринг
 ## Мое портфолио
-[мое портфолио](https://grishutenko.github.io)
-##Картинка
+https://grishutenko.github.io
+## Картинка
 ![мотивация](ana-juma-sFTMwH2Tvec-unsplash.jpg)
