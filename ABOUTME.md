@@ -2,5 +2,7 @@
 1. Язык программирования С
 2. Низкоуровневое программирование на языках ассемблера
 3. Обратный инженеринг
-[мое портфолио](grishutenko.github.io)
-[мотивация](ana-juma-sFTMwH2Tvec-unsplash.jpg)
+## Мое портфолио
+[мое портфолио](https://grishutenko.github.io)
+##Картинка
+![мотивация](ana-juma-sFTMwH2Tvec-unsplash.jpg)
