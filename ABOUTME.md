@@ -6,6 +6,7 @@
 https://grishutenko.github.io
 ## Картинка
 ![мотивация](ana-juma-sFTMwH2Tvec-unsplash.jpg)
+## Площадь треугольника по теореме Герона
 ```python
 import math
 
